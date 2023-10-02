@@ -59,6 +59,8 @@ Enter your question: How can I improve my math skills?
 AI-Generated Advice:
 [AI-generated advice will be displayed here]
 ```
+![Example Output](https://github.com/Mihirchauhan0709/Chat-gpt_API_integration/blob/main/Screenshot%202023-10-02%20175746.png)
+
 
 ## Notes
 - Make sure to keep your API key secure and do not share it publicly.
