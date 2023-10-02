@@ -66,8 +66,6 @@ AI-Generated Advice:
 - Make sure to keep your API key secure and do not share it publicly.
 - The OpenAI API usage may incur costs based on the number of requests you make. Please refer to OpenAI's pricing information for details.
 
-## License
-This code is provided under the [MIT License](LICENSE).
 
 ## Author
 Mihir Chauhan
