@@ -13,7 +13,12 @@ Before you can use this code, you need to obtain an API key from OpenAI. You can
    ```
    git clone https://github.com/Mihirchauhan0709/Chat-gpt_API_integration.git
    ```
-2. Install the required Python packages using pip:
+2. Navigate to the project directory:
+   ```
+   cd Chat-gpt_API_integration
+   ```
+
+3. Install the required Python packages using pip:
    ```
    pip install openai
    ```
