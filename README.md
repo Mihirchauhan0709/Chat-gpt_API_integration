@@ -43,7 +43,7 @@ To use the AI advice generator, follow these steps:
 5. The AI-generated advice will be displayed on the terminal.
 
 ## Configuration Options
-You can adjust the behavior of the AI advice generator by modifying the following parameters in the `generate_advice` function within the `advice_generator.py` script:
+You can adjust the behavior of the AI advice generator by modifying the following parameters in the `generate_advice` function within the `api.py` script:
 
 - `max_tokens`: Control the length of the AI-generated response by adjusting the `max_tokens` parameter. Increase it for longer responses or decrease it for shorter responses.
 - `temperature`: Adjust the `temperature` parameter to control the randomness of the AI's responses. Higher values (e.g., 0.7) make responses more random, while lower values (e.g., 0.2) make responses more deterministic.
