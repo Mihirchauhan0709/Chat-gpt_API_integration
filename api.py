@@ -1,6 +1,6 @@
 import openai
 
-# Replace 'YOUR_API_KEY' with your actual OpenAI API key
+# api-key from chat-gpt
 api_key = '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'
 openai.api_key = api_key
 
