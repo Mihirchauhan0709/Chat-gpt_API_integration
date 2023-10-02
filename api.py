@@ -1,7 +1,7 @@
 import openai
 
 # api-key from chat-gpt
-api_key = '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'
+api_key = 'YOUR_API_KEY'
 openai.api_key = api_key
 
 def generate_advice(user_profile, user_interest, user_question):
